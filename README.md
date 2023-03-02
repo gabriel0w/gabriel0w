@@ -1,5 +1,5 @@
 ## Olá, eu sou Gabriel Belo, Estudante de Programação e Engenharia Da Computação
-Atualmente trabalho como Dev Jr na Indigo Hive!
+
 </br>
 <div align="left">
   <a href="https://github.com/gabriel0w">
